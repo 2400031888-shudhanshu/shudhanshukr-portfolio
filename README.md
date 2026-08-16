@@ -1,5 +1,5 @@
 ````md
-# Om Prakhar Portfolio
+# Shudhanshu kumar Portfolio
 
 A modern 3D portfolio website showcasing my projects, software engineering skills, data science work, AI/ML interests, and development experience.
 
